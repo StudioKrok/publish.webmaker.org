@@ -34,3 +34,7 @@ node_modules
 
 # Databases
 *.db
+
+# Misc
+.idea
+.idea/*
